@@ -511,14 +511,4 @@ public class SkipList<N extends Comparable<N>>
 		
 		temp.trim(temh);
 	}
-	
-	public static double difficultyRating()
-	{
-		return 4.0;
-	}
-	
-	public static double hoursSpent()
-	{
-		return 20.0;
-	}
 }
